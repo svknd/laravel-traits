@@ -1,0 +1,20 @@
+{
+    "name": "svknd/laravel-traits",
+    "description": "Laravel Traits Package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Irvan Maulana",
+            "email": "me@tukangremot.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Svknd\\Laravel\\Traits\\": "src/"
+        }
+    },
+    "require": {
+        "ramsey/uuid": "^4.1"
+    }
+}
