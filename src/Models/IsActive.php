@@ -2,7 +2,7 @@
 
 namespace Svknd\Laravel\Traits\Models;
 
-use App\Scope\IsActiveScope;
+use Svknd\Laravel\Traits\Models\Scope\IsActiveScope;
 
 trait IsActive
 {

@@ -2,7 +2,7 @@
 
 namespace Svknd\Laravel\Traits\Models;
 
-use App\Scope\NotExpiredScope;
+use Svknd\Laravel\Traits\Models\Scope\NotExpiredScope;
 
 trait NotExpired
 {
